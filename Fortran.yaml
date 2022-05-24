@@ -1,0 +1,6 @@
+deps:
+  - apt-get update
+  - apt-get install -y gfortran
+  - gfortran -ffree-form helloworld.f
+daemons: []
+run: ./a.out
