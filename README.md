@@ -84,4 +84,4 @@ Rising Cloud may will take a few moments to spin-up your and proces your request
 
 Click the twisty to open up your Job, and then click Console to see your output
 
-Congratulations! You’ve successfully created and used a Rising Cloud Task!
+Congratulations! You’ve successfully used Fortran on Rising Cloud!
