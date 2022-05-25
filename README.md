@@ -1,5 +1,5 @@
 # fortran-task
-A simple Hello World example using Python on Rising Cloud. You can find all the instructions to build this example at: https://risingcloud.com/docs/fortran-task
+A simple Hello World example using Fortran on Rising Cloud. You can find all the instructions to build this example at: https://risingcloud.com/docs/fortran-task
 This guide will walk you through the steps needed to build and run a Fortrain Hello World! app on Rising Cloud using an Ubuntu 20.04 base image.  Note that if you want to build this on Ubuntu 22.04 some of the dependencies will be different.
 
 # 1. Install the Rising Cloud Command Line Interface (CLI)
